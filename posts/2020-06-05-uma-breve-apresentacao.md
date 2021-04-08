@@ -1,12 +1,10 @@
 ---
 date: 2020-06-05 05:54:23
 title: Uma breve apresentação
-description: Fala pessoal! Como vocês estão? Bom, antes de começar oficialmente o blog gostaria de me apresentar um pouco para vocês.
+description: Bom, antes de começar oficialmente o blog gostaria de me apresentar um pouco para vocês.
 category: misc
 background: "#7d669e"
 ---
-
-Fala pessoal! Como vocês estão? Bom, antes de começar oficialmente o blog gostaria de me apresentar um pouco para vocês.
 
 Meu nome é Víctor! Este é o meu novo blog, onde pretendo postar sobre tudo o que estiver em minha mente, bem como coisas nas quais estou trabalhando.
 
