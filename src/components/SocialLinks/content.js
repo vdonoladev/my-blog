@@ -13,6 +13,10 @@ const links = [
     label: "Instagram",
     url: `https://www.instagram.com/${handle}`,
   },
+  {
+  	label: "Linkedin",
+  	url: `https://www.linkedin.com/in/${handle}`,
+  },
 ]
 
 export default links
