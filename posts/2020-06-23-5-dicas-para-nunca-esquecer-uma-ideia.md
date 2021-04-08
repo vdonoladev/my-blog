@@ -3,7 +3,7 @@ title: 5 dicas para nunca esquecer uma ideia
 description: 'Já dizia Linus Pauling “A melhor maneira de ter uma boa ideia é ter várias boas ideias.”, mas de nada adianta ter várias boas ideias e depois… esquecê-las.'
 date: '2020-06-23 08:51:23'
 category: misc
-background: '#B31917'
+background: '#47650b'
 ---
 
 Então, como não perder suas ideias?

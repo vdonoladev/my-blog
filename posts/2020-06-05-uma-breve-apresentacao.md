@@ -3,7 +3,7 @@ date: 2020-06-05 05:54:23
 title: Uma breve apresentação
 description: Bom, antes de começar oficialmente o blog gostaria de me apresentar um pouco para vocês.
 category: misc
-background: "#7d669e"
+background: "#47650b"
 ---
 
 Meu nome é Víctor! Este é o meu novo blog, onde pretendo postar sobre tudo o que estiver em minha mente, bem como coisas nas quais estou trabalhando.
