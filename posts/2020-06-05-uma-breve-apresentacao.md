@@ -1,7 +1,7 @@
 ---
 date: 2014-01-31 05:54:23
-title: Waiting to die
-description: So say goodbye to love and hold your head up high
+title: Uma breve apresentação
+description: Fala pessoal! Como vocês estão? Bom, antes de começar oficialmente o blog gostaria de me apresentar um pouco para vocês.
 category: svg
 background: "#7d669e"
 ---
