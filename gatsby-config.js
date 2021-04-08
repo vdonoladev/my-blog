@@ -5,8 +5,8 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `Víctor Donola Ferreira`,
-    position: `Frontend Developer`,
-    description: `A blog about frontend development and other cool stuff.`,
+    position: `Desenvolvedor FrontEnd`,
+    description: `Um blog sobre desenvolvimento frontend e outras coisas legais.`,
     author: `@vdonoladev`,
     siteUrl: `https://vdonoladev.com.br`,
   },
