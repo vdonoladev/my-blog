@@ -4,7 +4,7 @@ description: Caso você não esteja acompanhando, este é o quarto post da minha
   série "Estudos em Isolamento Social", onde escrevo sobre minhas experiências
   aprendendo em casa e lidando com essa forma alterada de viver, fornecendo a
   você uma visão de estudante da vida sob o bloqueio COVID-19.
-date: 2021-04-11 07:32:41
+date: 2020-04-09 07:32:41
 image: assets/img/volcano.jpg
 category: misc
 background: "#7AAB13"
