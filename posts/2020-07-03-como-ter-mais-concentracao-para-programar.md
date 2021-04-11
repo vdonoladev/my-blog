@@ -1,9 +1,13 @@
 ---
-date: 2020-07-03 05:54:23
 title: Como ter mais concentração para programar
-description: O que diferencia os bons programadores dos demais é a sua capacidade de concentração, o mesmo acontece em vários outros segmentos de trabalho. Você se lembra na escola, onde o melhor aluno era sempre concentrado e observava com total atenção tudo o que era ensinado?
-category: misc
-background: "#47650b"
+description: O que diferencia os bons programadores dos demais é a sua
+  capacidade de concentração, o mesmo acontece em vários outros segmentos de
+  trabalho. Você se lembra na escola, onde o melhor aluno era sempre concentrado
+  e observava com total atenção tudo o que era ensinado?
+date: 2020-07-03 05:54:23
+image: assets/img/volcano.jpg
+category: dev
+background: "#637a91"
 ---
 
 O que diferencia os bons programadores dos demais é a sua capacidade de concentração, o mesmo acontece em vários outros segmentos de trabalho. Você se lembra na escola, onde o melhor aluno era sempre concentrado e observava com total atenção tudo o que era ensinado?
