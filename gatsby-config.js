@@ -7,7 +7,7 @@ module.exports = {
     title: `Víctor Donola Ferreira`,
     position: `Desenvolvedor Front End`,
     description: `Um blog sobre desenvolvimento frontend e outras coisas legais.`,
-    author: `@vdonoladev`,
+    author: `Víctor Donola Ferreira`,
     siteUrl: `https://vdonoladev.com.br`,
   },
   plugins: [
