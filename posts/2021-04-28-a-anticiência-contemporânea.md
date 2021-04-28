@@ -1,14 +1,34 @@
 ---
-title: A anticiência contemporânea
-description: "Atualmente, existem dois grandes grupos que adotam uma postura
-  anticientífica: os teóricos pós-modernos e os apologistas da teologia cristã."
+title: O que é o efeito placebo?
+description: Para exemplificar esse tema, vamos utilizar uma história que se
+  passou durante a Segunda Guerra Mundial.
 date: 2021-04-28 12:39:22
-image: assets/img/ignorance.jpg
+image: assets/img/placebo.jpg
 category: misc
 background: "#7AAB13"
 ---
-Os pós-modernos defendem uma perspectiva extremada da influência da dimensão social da investigação científica. Os pós-modernos, grosso modo, defendem que ao invés de as teorias científicas explicarem fenômenos ou objetos reais, tais teorias são apenas construções subjetivas sócio-linguisticamente criadas pelos investigadores e, portanto, os objetos reais não possuem autonomia ou independência em relação aos investigadores. É como assumir que a lua pode não existir quando considerada na explicação da força das marés pela teoria da gravidade, porque, de acordo com os pós-modernos, cada pessoa, sociedade ou cultura pode compreender a realidade de uma maneira diferente e ninguém estaria de alguma forma mais próximo da realidade objetiva ou da verdade. De fato, alguns pós-modernos podem até negar a existência da própria realidade ou da verdade, postulando que ela é resultado socialmente construído por aqueles que possuem o poder.
+Um médico não tinha mais estoques de morfina para aliviar a dor dos solados e não sabia o que fazer. Até que teve a ideia de colocar água com sal em ampolas e as injetar nas vítimas, simulando que estava aplicando morfina. E, pasmem, os soldados começaram a relatar que os incômodos estavam diminuindo! Afinal, o que é o efeito placebo? E o que está por trás dele?
 
-Por sua vez, os apologistas negam a ciência quando propostas de explicações científicas divergem com sua fé religiosa. Para os apologistas, qualquer explicação sobre a origem do Universo ou da Vida na Terra que não considere uma força primária (por exemplo, Deus ou designer inteligente), tal explicação é equivocada ou incompleta. Os apologistas também recusam evidências científicas que estejam em conformidade com alguma pauta política tipicamente progressista, como o aquecimento global, efeitos prejudiciais da desigualdade social e da miséria.
+É definido como placebo a substância sem atividade farmacológica que pode ser administrada como controle em tratamentos clínicos com medicamentos, ou pode ser dado ao paciente para efeitos benéficos.
 
-Os pós-modernos estão mais ligados a uma parcela da esquerda política, ao passo que os apologistas permeiam a dimensão da direita política. Os dois rejeitando a Ciência, desprezando suas respostas e lidando com a investigação científica como algo frequentemente perigoso. De qualquer modo, quem coloca a religição ou a ideologia política acima da ciência, seja de direita ou esquerda, liberal ou conservadora, cristã ou muçulmana, é o tipo de charlatão mais perigoso que o mundo moderno pode produzir.
+O placebo é uma intervenção projetada para simular a terapia médica, mas não acreditada para ter um efeito específico na doença ou na circunstância a que está sendo aplicado.
+
+Os efeitos dos placebos se mostram eficazes no tratamento para pacientes altamente ansiosos. O efeito do placebo pode ter efeitos psicológicos e aumentá-los para funções imunes.
+
+Esses efeitos podem ser positivos, neutros ou negativos. Os efeitos positivos são chamados de placebo, quando são apresentados efeitos negativos, ou seja, consequências negativas da aplicação, o efeito ganha nome de nocebo.
+
+Sugere-se que as endorfinas estão envolvidas nesse processo. A liberação dessas substâncias pode explicar as mudanças no comportomento, modulando o sistema imune que pode conduzir à saúde melhorada.
+
+Artigos sugerem que aproximadamente um terço dos pacientes terá uma resposta do placebo em toda a experimentação clínica e os efeitos do placebo são necessariamente breves. Além disso, como dito anteriormente, determinados tipos de personalidade são mais prováveis de responder ao placebo. Nos casos de resposta positiva, significa que não havia nada de errado com eles, e dar um placebo é o mesmo que não fazer nada.
+
+---
+
+**Referências:**
+
+BENSON. H; FRIEDMAN, R — Harnessing the power of the placebo effect and  renaming it “remembered wellness””. Annu Rev Med; 47:193–199, 1996.
+
+CINDY, S — Trends in Pharmacological Sciences, jul 22(7):342, 2000.
+
+SHER, L. “The placebo effect on mood and behavior: the role of the endogenous opioid system”. Med Hypotheses;48(4):347–349, 1997.
+
+TURNE,R J.A; DEYO, R.A; LOESER, J.D; VONKORFF, M; FORDYCE, W.E. “The importance of placebo effects in pain treatment and research [see comments”]. JAMA; 271(20): 1609–1614, 1994.
