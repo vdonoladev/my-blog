@@ -6,6 +6,7 @@ export const LayoutWrapper = styled.section`
 
   ${media.lessThan("large")`
     flex-direction: column;
+    padding-top: 4.125rem;
   `}
 `
 
@@ -23,6 +24,7 @@ export const LayoutMain = styled.main`
   }
 
   ${media.lessThan("large")`
-    padding: 4.125rem 0 3rem 0;
+    // padding: 4.125rem 0 3rem 0;
+    padding: 0 0 3rem 0;
   `}
 `

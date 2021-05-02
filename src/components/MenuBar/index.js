@@ -6,6 +6,7 @@ import { UpArrowAlt as Arrow } from "@styled-icons/boxicons-regular/UpArrowAlt"
 import { Lightbulb as Light } from "@styled-icons/material-outlined/Lightbulb"
 import { Grid } from "@styled-icons/boxicons-solid/Grid"
 import { ThList as List } from "@styled-icons/typicons/ThList"
+// import { Menu } from "@styled-icons/boxicons-regular/Menu"
 
 import getThemeColor from "../../utils/getThemeColor"
 
@@ -73,7 +74,7 @@ const MenuBar = () => {
         >
           {isListMode ? <Grid /> : <List />}
         </S.MenuBarItem>
-        <S.MenuBarItem title="Ir para o Topo">
+        <S.MenuBarItem title="Ir para o Topo" onClick={() => { window.scroll({ top: 0, behavior: "smooth" })}}>
           <Arrow />
         </S.MenuBarItem>
       </S.MenuBarGroup>
