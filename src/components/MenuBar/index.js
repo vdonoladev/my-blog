@@ -35,7 +35,6 @@ const MenuBar = () => {
           cover
           direction="right"
           bg={getThemeColor()}
-          duration={0.6}
           title="Voltar para Home"
         >
           <S.MenuBarItem>
@@ -47,7 +46,6 @@ const MenuBar = () => {
           cover
           direction="right"
           bg={getThemeColor()}
-          duration={0.6}
           title="Pesquisar"
         >
           <S.MenuBarItem>

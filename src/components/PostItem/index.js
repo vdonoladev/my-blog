@@ -19,7 +19,6 @@ const PostItem = ({
     cover
     direction="right"
     bg={getThemeColor()}
-    duration={0.6}
   >
     <S.PostItemWrapper>
       <S.PostItemTag background={background}>{category}</S.PostItemTag>

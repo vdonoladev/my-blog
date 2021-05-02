@@ -20,7 +20,6 @@ const Pagination = ({
         cover
         direction="left"
         bg={getThemeColor()}
-        duration={0.6}
       >
         ← página anterior
       </AniLink>
@@ -34,7 +33,6 @@ const Pagination = ({
         cover
         direction="right"
         bg={getThemeColor()}
-        duration={0.6}
       >
         proxima página →
       </AniLink>
