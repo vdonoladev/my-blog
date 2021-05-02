@@ -78,8 +78,8 @@ module.exports = {
         name: `Víctor Donola Ferreira`,
         short_name: `Víctor`,
         start_url: `/`,
-        background_color: `#16202c`,
-        theme_color: `#16202c`,
+        background_color: `#1C2938`,
+        theme_color: `#1C2938`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
