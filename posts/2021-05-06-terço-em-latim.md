@@ -38,7 +38,17 @@ background: "#7AAB13"
 4. Quem in templo præsentasti. \[Lc 2:25-32];
 5. Quem in templo invenisti. \[Lc 2:41-50].
 
-**II. Mysteria Luminosa** (In feria quinta)1. Qui apud Iordanem baptizatus est. \[Mt 3:13, Mc 1:9, Jn 1:29]; 2. Qui ipsum revelavit apud Canense matrimonium. \[In 2:1-11]; 3. Qui Regnum Dei annuntiavit. \[Mc 1:15, Lc 10:8-11]; 4. Qui transfiguratus est. \[Mt 17:1-8, Mc 9:2-9]; 5. Qui Eucharistiam instituit.\[In 6:27-59, Mt 26:26-29, Mc 14:22-24, Lc 22:15-20].
+**II. Mysteria Luminosa** (In feria quinta)
+
+1. Qui apud Iordanem baptizatus est. \[Mt 3:13, Mc 1:9, Jn 1:29]; 
+
+2. Qui ipsum revelavit apud Canense matrimonium. \[In 2:1-11]; 
+
+3. Qui Regnum Dei annuntiavit. \[Mc 1:15, Lc 10:8-11]; 
+
+4. Qui transfiguratus est. \[Mt 17:1-8, Mc 9:2-9];
+
+ 5. Qui Eucharistiam instituit.\[In 6:27-59, Mt 26:26-29, Mc 14:22-24, Lc 22:15-20].
 
 **III. Mysteria dolorosa** (In feria tertia et feria sexta)
 
