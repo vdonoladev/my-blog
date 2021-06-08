@@ -34,7 +34,7 @@ const Pagination = ({
         direction="right"
         bg={getThemeColor()}
       >
-        proxima página →
+        próxima página →
       </AniLink>
     )}
   </S.PaginationWrapper>

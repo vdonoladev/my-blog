@@ -17,9 +17,6 @@ const AboutPage = () => (
         Meu nome é Víctor Donola Ferreira, tenho 23 anos e sou morador de Angra dos Reis, RJ. 
       </p>
       <p>
-        Estudo todos os dias e busco crescer nessa área, a qual me encantou. 
-      </p>
-      <p>
         Iniciei meus estudos como Desenvolvedor Front End em 2017. Desde então venho me dedicando bastante aos estudos. Sinto e sei que estou no caminho certo, pois vejo os resultados que as horas, dias, semanas e meses de esforço me proporcionaram.
       </p>
       <p>
