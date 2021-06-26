@@ -18,9 +18,8 @@ A Igreja Católica conta desde sempre com o exemplo dos santos, pessoas humanas 
 
 Quem fala que a Bíblia não cita os santos está muito enganado!
 
-> A fumaça dos perfumes subiu na mão do anjo com as orações dos santos, diante de Deus.
-
-* Apocalipse 8, 4
+> A fumaça dos perfumes subiu na mão do anjo com as orações dos santos, diante de Deus.\
+> -- Apocalipse 8, 4
 
 Os Santos tem o poder de interceder por nós. A oração do justo vale mais, e os Santos são esses justos que estão no céu.
 
@@ -44,9 +43,8 @@ Colocamos na nossa cabeça que temos que ser felizes da nossa maneira, só temos
 
 Se você esquecer essa história de ser feliz a qualquer custo e pensar: "Sou fruto do amor de Deus. Vim ao mundo para te amar, Senhor!". Dessa forma um belo dia você vai dizer: "Como sou feliz, Senhor. Sou feliz e não sabia!".
 
-> Fui feliz quando esqueci de mim.
-
-* Santa Teresinha
+> Fui feliz quando esqueci de mim.\
+> -- Santa Teresinha
 
 Não adianta ficar se lamentando e pensando no que poderia ter acontecido, nas frustrações que tivemos e em como nossa vida está errada por isso e por aquilo. A vida que você tem hoje pode não ser o que você idealizou, mas olhe para dentro de si e pense: Como eu posso amar a Deus na minha realidade hoje?
 
