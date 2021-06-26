@@ -13,9 +13,8 @@ Temos 10 mandamentos e desses do 4° até o 10°, falam dessa nossa relação co
 
 Temos necessidade da ajuda do próximo em nossa dia-a-dia, não dá para viver sem a ajuda dos irmãos. O próprio Cristo precisou de discípulos para O ajudar na missão de levar o evangelho para as pessoas. Na Igreja também não é diferente, precisamos do próximo para que tudo aconteça bem durante as celebrações e eventos. Com nossos amigos também não é diferente, precisamos deles para nos dar aquele "socorro" sempre que necessário.
 
-> É preciso unir-se ao próximo para unir-se a Deus.
-
-* São Vicente de Paulo
+> É preciso unir-se ao próximo para unir-se a Deus.\
+> -- São Vicente de Paulo
 
 A oração é fundamental para que isso aconteça! Através da oração o próprio Deus coloca em nosso coração o desejo dessa união com as pessoas a nossa volta. E como não amar aquela pessoa sabendo que ela é um dom de Deus?
 
