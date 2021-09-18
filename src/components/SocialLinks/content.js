@@ -21,6 +21,10 @@ const links = [
     label: "Telegram",
     url: `https://t.me/${handle}`,
   },
+  {
+    label: "Whatsapp",
+    url: `https://api.whatsapp.com/send?phone=5524998652938`
+  }
 ]
 
 export default links
